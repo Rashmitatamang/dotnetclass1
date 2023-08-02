@@ -10,7 +10,7 @@
 
             var name3 = $"{dic["bro"]} and {dic["sis"]} are friends.";
             Console.WriteLine(name3);
-            Console.WriteLine("Hello, friends");
+            Console.WriteLine("Hello friends");
         }
     }
 }
