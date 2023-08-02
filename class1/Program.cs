@@ -8,7 +8,7 @@
             dic ["Husband"] = "fin";
             dic["Wife"] = "grace";
 
-            var name3 = $"{dic["bro"]} and {dic["sis"]} are friends.";
+            var name3 = $"{dic["cousin"]} and {dic["sis"]} are friends.";
             Console.WriteLine(name3);
             Console.WriteLine("Hello friends 11111111");
         }
